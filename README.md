@@ -1,6 +1,12 @@
-![skills4](https://user-images.githubusercontent.com/14273133/87329034-0d998d80-c53f-11ea-9aea-e53274d20213.gif)
+Hi, I'm John. 
 
-## Stories
-- `04/10/2020` - [Create and host a static website on AWS S3 - Part I](https://dusaitis.com/posts/create-and-host-a-static-website-on-aws-s3-part-i)
-- `12/07/2020` - [Design System’s Fundamentals](https://dusaitis.com/posts/design-system-s-fundamentals)
-- `17/06/2020` - [Serverless GraphQL server on AWS Lambda](https://dusaitis.com/posts/serverless-graphql-server-on-aws-lambda)
+A front-end dev who designs.
+
+## Articles
+
+- `25|Nov|2020` - [Bundle your React app with Rollup.js](https://dusaitis.com/bundle-your-react-app-with-rollup-js)
+- `18|Nov|2020` - [Static websites on AWS - Part III](https://dusaitis.com/static-websites-on-aws-part-iii)
+- `26|Oct|2020` - [Static websites on AWS - Part II](https://dusaitis.com/static-websites-on-aws-part-ii)
+- `04|Oct|2020` - [Static websites on AWS - Part I](https://dusaitis.com/static-websites-on-aws-part-i)
+- `12|Jul|2020` - [Design System’s Fundamentals](https://dusaitis.com/posts/design-system-s-fundamentals)
+- `17|Jun|2020` - [Serverless GraphQL server on AWS Lambda](https://dusaitis.com/posts/serverless-graphql-server-on-aws-lambda)
